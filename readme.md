@@ -1,3 +1,1 @@
-Cambio 1
-Cambio 2
-Cambio 3
+La diferencia entre el FF y el no FF es que se guardan las ramas por separado, lo cual tiene el beneficio de que en caso de que se haga algo mal, puedes volver por separado a ambas ramas y volver a hacerlo
